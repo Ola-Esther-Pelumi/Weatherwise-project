@@ -1,0 +1,21 @@
+## Project Name: "WeatherWise"
+### Description:
+WeatherWise is a responsive web application that provides real-time weather information for any location. Users can enter a city or zip code, and the app will display the current weather conditions, temperature, humidity, and a brief forecast. The project aims to enhance users' experience by offering a clean and intuitive interface.
+
+### Features:
+1. Search Functionality**: Users can input a location (city or zip code) to retrieve weather data.
+2. Dynamic UI**: The app adapts its layout based on the user's device screen size.
+3. Weather Display**: Show current weather conditions, temperature, and humidity.
+4. Forecast**: Display a brief forecast for the next few days.
+5. Copy to Clipboard**: Users can easily copy the weather details to their clipboard.
+
+## Getting Started
+1. Clone this repository.
+2. Open `index.html` in your browser.
+3. Enter a location and click "Search."
+4. Explore the weather information!
+
+## Technologies Used
+- HTML
+- CSS (for styling)
+- JavaScript (for fetching weather data and dynamic UI)
